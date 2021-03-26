@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1616590330846" clover="3.2.0">
+  <project timestamp="1616590330847" name="All files">
+    <metrics statements="41" coveredstatements="35" conditionals="12" coveredconditionals="12" methods="9" coveredmethods="8" elements="62" coveredelements="55" complexity="0" loc="41" ncloc="41" packages="1" files="1" classes="1"/>
+    <file name="linkedList.js" path="/home/dell/Documents/lessons.js/algorithms/linkedlist/linkedList.js">
+      <metrics statements="41" coveredstatements="35" conditionals="12" coveredconditionals="12" methods="9" coveredmethods="8"/>
+      <line num="4" count="14" type="stmt"/>
+      <line num="6" count="14" type="stmt"/>
+      <line num="12" count="37" type="stmt"/>
+      <line num="14" count="37" type="stmt"/>
+      <line num="16" count="37" type="stmt"/>
+      <line num="20" count="12" type="cond" truecount="4" falsecount="0"/>
+      <line num="21" count="6" type="stmt"/>
+      <line num="24" count="6" type="stmt"/>
+      <line num="25" count="6" type="stmt"/>
+      <line num="26" count="7" type="stmt"/>
+      <line num="29" count="6" type="stmt"/>
+      <line num="33" count="2" type="stmt"/>
+      <line num="34" count="2" type="stmt"/>
+      <line num="38" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="42" count="3" type="stmt"/>
+      <line num="43" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="44" count="2" type="stmt"/>
+      <line num="48" count="1" type="stmt"/>
+      <line num="53" count="1" type="stmt"/>
+      <line num="57" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="58" count="1" type="stmt"/>
+      <line num="61" count="3" type="stmt"/>
+      <line num="62" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="63" count="2" type="stmt"/>
+      <line num="66" count="1" type="stmt"/>
+      <line num="69" count="1" type="stmt"/>
+      <line num="73" count="0" type="stmt"/>
+      <line num="74" count="0" type="stmt"/>
+      <line num="75" count="0" type="stmt"/>
+      <line num="76" count="0" type="stmt"/>
+      <line num="77" count="0" type="stmt"/>
+      <line num="80" count="0" type="stmt"/>
+      <line num="87" count="38" type="stmt"/>
+      <line num="89" count="38" type="stmt"/>
+      <line num="93" count="1" type="stmt"/>
+      <line num="94" count="13" type="stmt"/>
+      <line num="95" count="13" type="stmt"/>
+      <line num="96" count="34" type="stmt"/>
+      <line num="99" count="13" type="stmt"/>
+      <line num="102" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
